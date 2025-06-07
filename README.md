@@ -4,7 +4,7 @@ A comprehensive data analytics dashboard for analyzing BCA student performance a
 
 ## 🌟 Live Demo
 
-🔗 **[🚀 Launch Dashboard](https://academic-performances-6cakjfasowlj6astfxgmdf.streamlit.app/)** ← **Replace with your actual Streamlit app URL**
+🔗 **[🚀 Launch Dashboard](https://academic-performances-6cakjfasowlj6astfxgmdf.streamlit.app/)** 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-URL.streamlit.app)
 
