@@ -1,6 +1,6 @@
-# 🎓 BCA Student Academic Performance Analysis
+# 🎓Academic Performance Analysis
 
-A comprehensive data analytics dashboard for analyzing BCA student performance across core subjects using Python, Streamlit, and Plotly.
+A comprehensive data analytics dashboard for analyzing  student performance across core subjects using Python, Streamlit, and Plotly.
 
 ## 🌟 Live Demo
 
