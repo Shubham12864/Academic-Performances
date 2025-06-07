@@ -21,7 +21,7 @@ st.set_page_config(
 )
 
 def main():
-    st.title("🎓 BCA Student Academic Performance Analysis")
+    st.title("🎓 Academic Performance Analysis")
     st.markdown("---")
     
     # Sidebar for controls
